@@ -1,0 +1,12 @@
+
+---
+
+## 📄 Archivo `requirements.txt`
+
+```txt
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+gammapy>=2.0.0
+astropy>=6.0.0
+regions>=0.9.0
