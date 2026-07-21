@@ -1,19 +1,18 @@
-# Análisis de rayos gamma del centro galáctico
+# An�lisis de rayos gamma del centro gal�ctico
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shoponlinecentrocomercial/dual-energy-universe-analysis/HEAD)
+Este repositorio contiene el c�digo para reproducir el an�lisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 **.
 
-Este repositorio contiene el código y las instrucciones para reproducir el análisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 σ**, consistente con el **Modelo de Energía Dual**.
-
-## 🔧 Requisitos
+##  Requisitos
 
 - Python 3.10+
-- Gammapy >= 2.0
-- Numpy, Scipy, Matplotlib
+- 8 GB de RAM (recomendado)
+- 5 GB de espacio en disco
+- Conexi�n a internet para descargar los datos
 
-## 📦 Instalación
+##  Instalaci�n
 
 ```bash
-git clone https://github.com/TU_USUARIO/dual-energy-universe-analysis.git
+git clone https://github.com/tuusuario/dual-energy-universe-analysis.git
 cd dual-energy-universe-analysis
 python3 -m venv env
 source env/bin/activate
