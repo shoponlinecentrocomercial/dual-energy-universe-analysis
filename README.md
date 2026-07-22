@@ -12,7 +12,7 @@ Este repositorio contiene el código para reproducir el análisis de datos de Fe
 ## Instalación
 
 ```bash
-git clone https://github.com/tuusuario/dual-energy-universe-analysis.git
+git clone https://github.com/shoponlinecentrocomercial/dual-energy-universe-analysis.git
 cd dual-energy-universe-analysis
 python3 -m venv env
 source env/bin/activate
