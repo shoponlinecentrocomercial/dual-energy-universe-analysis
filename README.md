@@ -1,15 +1,15 @@
-# An�lisis de rayos gamma del centro gal�ctico
+# Análisis de rayos gamma del centro galáctico
 
-Este repositorio contiene el c�digo para reproducir el an�lisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 **.
+Este repositorio contiene el código para reproducir el análisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 σ**.
 
 ##  Requisitos
 
 - Python 3.10+
 - 8 GB de RAM (recomendado)
 - 5 GB de espacio en disco
-- Conexi�n a internet para descargar los datos
+- Conexión a internet para descargar los datos
 
-##  Instalaci�n
+##  Instalación
 
 ```bash
 git clone https://github.com/tuusuario/dual-energy-universe-analysis.git
