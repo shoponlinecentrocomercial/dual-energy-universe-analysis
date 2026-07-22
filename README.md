@@ -1,6 +1,6 @@
 # Análisis de rayos gamma del centro galáctico
 
-Este repositorio contiene el código para reproducir el análisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 σ**.
+Este repositorio contiene el código para reproducir el análisis de datos de Fermi-LAT que ha revelado un pico en **0.23 GeV** con una significancia de **3.54 σ**.
 
 ##  Requisitos
 
